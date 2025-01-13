@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eran Hasareli
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & Python.
 - 💞️ Whenever possible, I also apply my passion for developing web apps with Node.js and Modern Javascript Library and Frameworks  like React.js and Express.js.
 
 
